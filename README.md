@@ -43,8 +43,8 @@ p(r) = A \left(\frac{r + R_{gal}}{R_c + R_{gal}}\right)^a \exp \left[-b \frac{r 
 直接在终端或 IDE 中运行脚本：
 ```bash
 python rejection_sampling.py
-
-## 6.使用方法
+```
+## 6. 使用方法
 1、保存拒绝采样的方法模拟样本.py文件
 
 2、在终端或命令行中执行启动程序
