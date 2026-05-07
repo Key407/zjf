@@ -54,7 +54,7 @@ p(r) = A \left(\frac{r + R_{gal}}{R_c + R_{gal}}\right)^a \exp \left[-b \frac{r 
 直接在终端或 IDE 中运行脚本：
 ```bash
 python rejection_sampling.py
-
+```
 ## 6.输出说明
 控制台输出：目标函数积分Z，包络总面积，自然接受率（理论值及实际值），样本总数。
 
